@@ -1,4 +1,4 @@
-module github.com/loganintech/go-shlink
+module github.com/loganintech/shlink
 
 go 1.20
 
