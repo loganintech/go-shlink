@@ -8,7 +8,7 @@ import (
 	"github.com/joho/godotenv"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/loganintech/shlink-client/shlink"
+	"github.com/loganintech/go-shlink/shlink"
 )
 
 func TestClient_doRequest(t *testing.T) {
